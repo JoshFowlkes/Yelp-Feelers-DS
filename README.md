@@ -21,8 +21,8 @@ For the Data Science portion of this application, we used this Kaggle [Yelp](htt
 
 ## Logs
 
-- 2019-09-21 - Started explanatory notebooks
-- 2019-09-23 - Re-structured and organized folders, and files
+October 21, 2019 Exploratory Data Analysis & Initial Modeling, Mock Data To Backend
+October 22, 2019 Optimize Model for better accuracy, Set up End points for Backend 
 
 ## Contributing
 Pull requests are welcome. However for major changes, please open an issue first to discuss what you would like to change.
