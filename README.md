@@ -13,8 +13,11 @@ From there, we worked extensively with our back-end architect to get the data in
 ## Logs
 
 October 21, 2019 Exploratory Data Analysis & Initial Modeling, Mock Data To Backend
+
 October 22, 2019 Optimize Model for better accuracy, Set up End points for Backend 
+
 October 23, 2019 Done with the bulk of both MVP and Strech Requirments. Form here just further optimzation & on standby incase our team needs help with anything.
+
 October 24, 2019 Final day, just standing by incase our team needs us. Otherwise we're making little tweaks here and there, improving what can be improved upon, and otherwise just allow the rest of the areas of our team to do what they do best. 
 
 ## Contributing
