@@ -1,7 +1,7 @@
 # Data Science - Spotifier
 This is the Data Science portion for an Application that uses Machine Learning to build a Yelp Adjusted Ratings App based on a User's  text review which is then put through a rigorous Sentiment Analysis.
 
-You can visit the application here: [Yelp_Feelers]('http://fixthislinkwheneverythingisdone.com')
+You can visit the application here: [Yelp_Feelers](https://yelpfeelershomehenry.netlify.com/)
 
 ## Flowchart
 ![Alt text](/FlowChart.png)
