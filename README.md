@@ -23,7 +23,7 @@ October 24, 2019 Final day, just standing by incase our team needs us. Otherwise
 ## Contributing
 Pull requests are welcome. However for major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure to update tests, as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
