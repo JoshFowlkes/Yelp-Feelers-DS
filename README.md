@@ -18,12 +18,11 @@ October 22, 2019 Optimize Model for better accuracy, Set up End points for Backe
 
 October 23, 2019 Done with the bulk of both MVP and Strech Requirments. Form here just further optimzation & on standby incase our team needs help with anything.
 
-October 24, 2019 Final day, just standing by incase our team needs us. Otherwise we're making little tweaks here and there, improving what can be improved upon, and otherwise just allow the rest of the areas of our team to do what they do best. 
+October 24, 2019 Final day, just standing by incase our team needs us. Otherwise we're making little tweaks here and there, improving what can be improved upon, and otherwise just allow the rest of the areas of our team to do what they do best, and thanks for viewing our Repo! 
 
 ## Contributing
 Pull requests are welcome. However for major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests, as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
